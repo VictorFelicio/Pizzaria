@@ -1,0 +1,15 @@
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/bin/Debug/net6.0/Pizzaria
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/bin/Debug/net6.0/Pizzaria.deps.json
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/bin/Debug/net6.0/Pizzaria.runtimeconfig.json
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/bin/Debug/net6.0/Pizzaria.dll
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/bin/Debug/net6.0/ref/Pizzaria.dll
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/bin/Debug/net6.0/Pizzaria.pdb
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.csproj.AssemblyReference.cache
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.AssemblyInfoInputs.cache
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.AssemblyInfo.cs
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.csproj.CoreCompileInputs.cache
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.dll
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/ref/Pizzaria.dll
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.pdb
+/home/joao-felicio-gupy/Área de Trabalho/Pizzaria/Pizzaria/obj/Debug/net6.0/Pizzaria.genruntimeconfig.cache
